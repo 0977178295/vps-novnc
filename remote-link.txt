@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://corp-barnes-welcome-passed.trycloudflare.com/vnc.html
+URL       : https://fri-conclusions-donated-name.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 14:49:48
+Created   : 2026-10-15 19:01:48
 =======================================================
