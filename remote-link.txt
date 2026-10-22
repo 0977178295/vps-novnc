@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://coalition-beneficial-breeds-easter.trycloudflare.com/vnc.html
+URL       : https://wind-talks-tiles-passive.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 04:16:35
+Created   : 2026-10-22 09:58:09
 =======================================================
