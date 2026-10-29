@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://executives-postage-running-banners.trycloudflare.com/vnc.html
+URL       : https://miniature-newspaper-drunk-taught.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-29 05:12:54
+Created   : 2026-10-29 16:49:45
 =======================================================
